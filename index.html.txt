@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Kollander</h1>
+<p>An upcoming page.</p>
+</body>
+</html>
